@@ -5,6 +5,7 @@ const page = () => {
     <>
     <div className='bg-gray-700 h-screen w-screen text-8xl text-white flex items-center justify-center font-bold'>info</div>
     <div className='bg-gray-700 h-screen w-screen text-8xl text-white flex items-center justify-center font-bold'>info</div>
+    <div className='bg-gray-700 h-screen w-screen text-8xl text-white flex items-center justify-center font-bold'>info</div>
     </>
   )
 }
